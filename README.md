@@ -1,1 +1,1 @@
-# OIBSIP-JAVA-TASK-3
+This repository is created for "ATM interface" project.
